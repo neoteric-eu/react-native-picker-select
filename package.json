@@ -23,7 +23,8 @@
         "LICENSE",
         "README.md",
         "index.d.ts",
-        "src/index.js"
+        "src/index.js",
+        "src/styles.js"
     ],
     "dependencies": {
         "lodash.isequal": "^4.5.0"
